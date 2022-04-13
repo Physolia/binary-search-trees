@@ -1,1 +1,1 @@
-# binary-search-trees
+# Ruby - Binary Search Trees Project
